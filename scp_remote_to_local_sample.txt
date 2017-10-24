@@ -1,0 +1,1 @@
+scp -P{number_of_port} user@remote_server:/home/test.txt /home/user/Desktop/
