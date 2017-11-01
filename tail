@@ -1,0 +1,1 @@
+tail -n+2 sim_spamer_and_good_user_weight.csv| cut -d',' -f3 > sim_s_g/not_sort_sim_s_g_weight
